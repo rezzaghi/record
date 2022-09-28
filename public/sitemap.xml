@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://rezzaghi.github.io/record/posts/examplepost/</loc>
+    <lastmod>2022-09-28T13:39:31-03:00</lastmod>
+  </url><url>
+    <loc>https://rezzaghi.github.io/record/</loc>
+    <lastmod>2022-09-28T13:39:31-03:00</lastmod>
+  </url><url>
+    <loc>https://rezzaghi.github.io/record/posts/</loc>
+    <lastmod>2022-09-28T13:39:31-03:00</lastmod>
+  </url><url>
+    <loc>https://rezzaghi.github.io/record/tags/</loc>
+    <lastmod>2022-09-28T13:39:31-03:00</lastmod>
+  </url><url>
+    <loc>https://rezzaghi.github.io/record/tags/untagged/</loc>
+    <lastmod>2022-09-28T13:39:31-03:00</lastmod>
+  </url><url>
+    <loc>https://rezzaghi.github.io/record/blog/</loc>
+  </url><url>
+    <loc>https://rezzaghi.github.io/record/series/</loc>
+  </url>
+</urlset>
